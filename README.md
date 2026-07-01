@@ -88,12 +88,9 @@ OOP-Quiz-Management-System/
 ---
 
 ## Author
-
 **Paras Aijaz**
 
-
 Bachelor of Computer Science Student
-
 
 Passionate about Java, Front-End Development, and building user-friendly applications.
 
