@@ -39,11 +39,11 @@ A Java console-based quiz application developed as my **Object-Oriented Programm
 
 ### Quiz Interface
 
-![Quiz Interface](screenshots/quiz-interface.png)
+![Quiz Interface](screenshots/Start_of_the_Program.PNG)
 
 ### Result Card
 
-![Result Card](screenshots/result-card.png)
+![Result Card](screenshots/Result_Card_Output.PNG)
 
 ---
 
